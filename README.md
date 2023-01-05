@@ -1,4 +1,8 @@
-## Olá! Eu sou o Gustavo Neres! 👨‍💻
+### Olá! Eu sou o Gustavo Neres! 👨‍💻
+
+Atualmente estudando Java. ☕☕☕
+
+##
 
 <div align="center">
   <a href="https://github.com/ntfgustavo">
